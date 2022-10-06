@@ -6,21 +6,21 @@ layout: homepage
 ## Education and Professional Designation
 - **Ph.D. in Actuarial Science**, University of Hong Kong, 2018-2022
   <br>
-  -Supervisor: [Prof. Ruodu Wang](http://sas.uwaterloo.ca/~wang/)
+  -Supervisor: [Prof. Hailiang Yang](https://saasweb.hku.hk/staff/hlyang/)
   <br>
 - **M.Sc. in Statistics**, Chongqing University, 2015-2018
   <br>
-  -Supervisor: [Prof. Zhimin Zhang]
+  -Supervisor: [Prof. Zhimin Zhang](https://saasweb.hku.hk/staff/hlyang)
   <br>
 - **B.Sc. in Statistics**, Chongqing University, 2011-2015
 
 
 ## Research Interests
 
-I am interested in the research of actuarial science and risk management.
-- **Robust risk aggregation** 
-- **Dependence modelling** 
-- **Financial derivatives** 
+I am interested in the research of actuarial science and credibility theory.
+- **Equity-linked insurance products** 
+- **Mean-variance premium principle** 
+ 
 
 ## Publications and Manuscripts
 -  Chen, Y., Embrechts, P., and Wang, R. (2022). An unexpected stochastic dominance: Pareto distributions, catastrophes, and risk exchange. 
@@ -35,11 +35,10 @@ I am interested in the research of actuarial science and risk management.
   [PDF](https://www.researchgate.net/publication/326759271_Variance_swaps_valuation_under_non-affine_GARCH_models_and_their_diffusion_limits/link/5b7c82a8a6fdcc5f8b5afd79/download)
  
   
-## R package 
-  **pmerge**: This package contains several useful functions/methods to merge p-values that are either independent or arbitrarily dependent in multiple hypothesis testing. The development version and its instruction are available at [Github](https://github.com/YuyuChen-UW/pmerge).
-
 ## Presentations
-- Mathematical and Computational Finance Lab Seminar, University of Calgary, September 2022
+- The 25th International Congress on Insurance: Mathematics and Economics, online, July 2022.
+<br>
+Title: Credibility theory for mean-variance premium principle
 - Extreme Value Theory and Quantitative Risk Management Workshop, online, August 2022
 - The International Actuarial Association Joint Section Colloquium, online, October 2021 
 - The 56th Actuarial Research Conference, online, August 2021 
@@ -50,40 +49,33 @@ I am interested in the research of actuarial science and risk management.
   
 ## Teaching Experience
 
-- **2018.09-present: Teaching Assistant at the University of Waterloo**
+- **2018.09-2022.08: Teaching Assistant at the University of Hong Kong**
   <br>
-  -ACTSC 231 (Introductory Financial Mathematics)
+  -2022 Spring, STAT 3911 Financial Economics II.
   <br>
-  -ACTSC 232 (Life Contingencies 1)
+  -2021 Autumn, STAT 3910 Financial Economics I.
   <br>
-  -ACTSC 371 (Introduction to Investments)
+  -2021 Spring, STAT 3911 Financial Economics II.
   <br>
-  -ACTSC 372 (Corporate Finance)
+  -2020 Autumn, STAT 3910 Financial Economics I.
   <br>
-  -ACTSC 446/846 (Mathematics of Financial Markets)
+  -2020 Spring, STAT 3911 Financial Economics II.
   <br>
-  -MATBUS 471 (Fixed Income Securities)
+  -2019 Autumn, STAT 3910 Financial Economics I.
   <br>
-  -STAT 330 (Mathematical Statistics)
+  -2019 Spring, STAT 3911 Financial Economics II.
   <br>
-  -STAT 333 (Applied Probability)
-  
-- **2016.09-2018.06: Teaching Assistant at the University of Calgary**
-  <br>
-  -STAT 213 (Introduction to Statistics I)
-   <br>
-  -STAT 217 (Introduction to Statistics II)
+  -2018 Autumn, STAT 3910 Financial Economics I.
 
+ 
+  
+- **2015.09-2018.06: Teaching Assistant at Chongqing University**
+  <br>
+  -Probability and Statistics
+ 
 ## Peer-review Service
 - Insurance: Mathematics and Economics
-- ASTIN Bulletin - The Journal of the International Actuarial Association
-- Journal of Mathematical Economics
-- Scandinavian Journal of Statistics
 
 ## Selected Awards
-- Sprott Scholarship, University of Waterloo
-- Best Paper Award, the 2021 International Actuarial Association Joint Section Colloquium AFIR-ERM Section
-- Maplesoft Best Student Paper Award, the 24th Congress on Insurance: Mathematics and Economics 
-- Honorable mention of the Best Student Presentation Award, the 56th Actuarial Research Conference 
-
-
+- Research Excellence Award, University of Hong Kong.
+- Postgraduate Scholarship, University of Hong Kong, 2018-2022.
