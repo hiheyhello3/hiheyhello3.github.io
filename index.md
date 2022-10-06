@@ -4,7 +4,7 @@ layout: homepage
 
 
 ## Education and Professional Designation
-- **Ph.D. in Actuarial Science**, University of Hong Kong, 2018-2022.
+- **Ph.D. in Actuarial Science**, University of Hong Kong, 2018--2022.
   <br>
   -Supervisor: [Prof. Hailiang Yang](https://saasweb.hku.hk/staff/hlyang/)
   <br>
@@ -45,7 +45,8 @@ I am interested in the research of actuarial science and credibility theory.
 - The 8th China Forum for Risk Management and Actuarial Science, July 2017, Beijing, China.
 <br>
   _Contributed Talk: Valuing guaranteed equity-linked contracts by Laguerre series expansion_.  
- 
+
+
 ## Teaching Experience
 
 - **2018.09-2022.08: Teaching Assistant at the University of Hong Kong**
@@ -76,7 +77,7 @@ I am interested in the research of actuarial science and credibility theory.
 - Probability in the Engineering and Informational Sciences.
 
 ## Selected Awards
-- Research Excellence Award, Department of Statistics and Actuarail Science, University of Hong Kong.
+- Research Excellence Award, Department of Statistics and Actuarial Science, University of Hong Kong.
 - Postgraduate Scholarship, University of Hong Kong, 2018-2022.
 - Excellent Graduate Students in Chongqing City, 2018.
 - National Scholarship for Graduate students, Ministry of Education of PRC, 2016.
