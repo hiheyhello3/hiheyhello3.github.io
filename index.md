@@ -24,7 +24,7 @@ I am interested in the research of actuarial science and credibility theory.
  
 
 ## Publications and Manuscripts
-- *Yaodi Yong*, Pingping Zeng, and Yiying Zhang. (2022). Credibility theory for mean-variance premium principle. _Working paper_. 
+- **Yaodi Yong**, Pingping Zeng, and Yiying Zhang. (2022). Credibility theory for mean-variance premium principle. _Working paper_. 
 
 -  **Yaodi Yong** and Hailiang Yang. (2022) Valuation of cliquet-style guarantees with death benefits. _Journal of Industrial Management & Optimizaiton_. 
 
