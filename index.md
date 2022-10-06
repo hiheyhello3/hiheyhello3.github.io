@@ -45,7 +45,6 @@ I am interested in the research of actuarial science and credibility theory.
 - The 5th International Conference on Econometrics and Statistics (EcoSta 2022), June 2022.
 <br>
   _Contributed Talk: Credibility theory for mean-variance premium principle_.
-
 - The 24th International Congress on Insurance: Mathematics and Economis, July 2021.
 <br>
   _Contributed Talk: Valuation of GMDBs_.
@@ -56,15 +55,15 @@ I am interested in the research of actuarial science and credibility theory.
 
 ## Teaching Experience
 
-- **2018.09-2022.08: Teaching Assistant at the University of Hong Kong**
+- **2018.09-2022.08: Teaching Assistant at the University of Hong Kong.**
   <br>
-  -_STAT 3910 Financial Economics I_: 2021 Autumn, 2020 Autumn, 2019 Autumn, 2018 Autumn.
+  -STAT 3910 Financial Economics I: 2021 Autumn, 2020 Autumn, 2019 Autumn, 2018 Autumn.
   <br>
-  -_STAT3911 Financial Economics II_: 2022 Spring, 2021 Spring, 2020 Spring, 2019 Spring.
+  -STAT3911 Financial Economics II: 2022 Spring, 2021 Spring, 2020 Spring, 2019 Spring.
    
-- **2015.09-2018.06: Teaching Assistant at Chongqing University**
+- **2015.09-2018.06: Teaching Assistant at Chongqing University.**
   <br>
-  -Probability and Statistics
+  -Probability and Statistics.
  
 ## Peer-review Service
 - Probability in the Engineering and Informational Sciences.
