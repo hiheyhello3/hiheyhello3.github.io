@@ -1,0 +1,15 @@
+title: Hiheyhello3
+position: PhD 
+affiliation: University of Hong Kong
+email: hiheyhello3(at)gmail.com
+keywords: Risk Aggregation
+#google_scholar: https://scholar.google.com/
+#github_link: https://github.com/yaoyao-liu/minimal-light
+#linkedin: https://www.linkedin.com/
+avatar: ./assets/img/ninja.png
+#google_analytics: G-1D29G2JZ6D
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light.yyliu.net/
+remote_theme: yaoyao-liu/minimal-light
