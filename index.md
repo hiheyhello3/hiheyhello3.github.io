@@ -57,7 +57,7 @@ I am interested in the research of actuarial science and credibility theory.
 
 - **2018.09-2022.08: Teaching Assistant at the University of Hong Kong.**
   <br>
-  -STAT 3910 Financial Economics I: 2021 Autumn, 2020 Autumn, 2019 Autumn, 2018 Autumn.
+  -STAT3910 Financial Economics I: 2021 Autumn, 2020 Autumn, 2019 Autumn, 2018 Autumn.
   <br>
   -STAT3911 Financial Economics II: 2022 Spring, 2021 Spring, 2020 Spring, 2019 Spring.
    
