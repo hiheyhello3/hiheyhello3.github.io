@@ -38,13 +38,13 @@ I am interested in the research of actuarial science and credibility theory.
 ## Presentations
 - The 25th International Congress on Insurance: Mathematics and Economics, July 2022.
 <br>
-_Contributed Talk: Credibility theory for mean-variance premium principle_.
+  _Contributed Talk: Credibility theory for mean-variance premium principle_.
 - The 24th International Congress on Insurance: Mathematics and Economis, July 2021.
 <br>
-_Contributed Talk: Valuation of GMDBs_.
+  _Contributed Talk: Valuation of GMDBs_.
 - The 8th China Forum for Risk Management and Actuarial Science, July 2017, Beijing, China.
 <br>
-_Contributed Talk: Valuing guaranteed equity-linked contracts by Laguerre series expansion_.  
+  _Contributed Talk: Valuing guaranteed equity-linked contracts by Laguerre series expansion_.  
  
 ## Teaching Experience
 
